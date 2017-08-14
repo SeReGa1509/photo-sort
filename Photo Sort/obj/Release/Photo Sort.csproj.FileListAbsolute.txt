@@ -1,0 +1,8 @@
+D:\Projects C#\Photo Sort\Photo Sort\bin\Release\Photo Sort.exe.config
+D:\Projects C#\Photo Sort\Photo Sort\bin\Release\Photo Sort.exe
+D:\Projects C#\Photo Sort\Photo Sort\bin\Release\Photo Sort.pdb
+D:\Projects C#\Photo Sort\Photo Sort\obj\Release\Photo_Sort.Form1.resources
+D:\Projects C#\Photo Sort\Photo Sort\obj\Release\Photo_Sort.Properties.Resources.resources
+D:\Projects C#\Photo Sort\Photo Sort\obj\Release\Photo Sort.csproj.GenerateResource.Cache
+D:\Projects C#\Photo Sort\Photo Sort\obj\Release\Photo Sort.exe
+D:\Projects C#\Photo Sort\Photo Sort\obj\Release\Photo Sort.pdb

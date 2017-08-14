@@ -1,0 +1,9 @@
+D:\Projects C#\Photo Sort\Photo Sort\bin\Debug\Photo Sort.exe.config
+D:\Projects C#\Photo Sort\Photo Sort\bin\Debug\Photo Sort.exe
+D:\Projects C#\Photo Sort\Photo Sort\bin\Debug\Photo Sort.pdb
+D:\Projects C#\Photo Sort\Photo Sort\obj\Debug\Photo Sort.csprojResolveAssemblyReference.cache
+D:\Projects C#\Photo Sort\Photo Sort\obj\Debug\Photo_Sort.Form1.resources
+D:\Projects C#\Photo Sort\Photo Sort\obj\Debug\Photo_Sort.Properties.Resources.resources
+D:\Projects C#\Photo Sort\Photo Sort\obj\Debug\Photo Sort.csproj.GenerateResource.Cache
+D:\Projects C#\Photo Sort\Photo Sort\obj\Debug\Photo Sort.exe
+D:\Projects C#\Photo Sort\Photo Sort\obj\Debug\Photo Sort.pdb
